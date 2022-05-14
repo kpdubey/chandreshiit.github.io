@@ -87,3 +87,7 @@ academic import --bibtex citations.bib --featured
 ## Common error and mistakes
 
 * Folders **must not** have any spaces. Use web-friendly hyphens instead.
+
+# To insert latex
+
+To insert latex using shortcodes {{<math>}}$$a+b$${{</math>}}

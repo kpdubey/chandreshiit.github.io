@@ -5,6 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear in.
 
+
+
 title = "Multi modal Fake News Detection"
 
 # Choose the user profile to display
