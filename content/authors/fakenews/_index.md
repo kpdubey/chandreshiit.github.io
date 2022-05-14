@@ -11,7 +11,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
-
+highlight: true
 # Organizations/Affiliations
 organizations:
 - name: ""
@@ -56,8 +56,16 @@ email: ""
 user_groups:
 - Projects
 - SBKS Project
+math: true
 ---
 
 With the development of the Internet and multimedia, the way people acquire information has been significantly changed. Nowadays, there are more and more people consuming news through social media, which can provide all kinds of multimedia information on the events taking place all over the world. Unfortunately, social media websites also have fostered various fake news which usually contain misrepresented or even forged multimedia content,
 to mislead the readers and get rapid spread. Some evil guys even
 use rumors to mislead public opinion, which can damage the credibility of the government on purpose. Therefore, it is necessary and urgent to use an automatic detector to prevent fake news from causing serious negative effects and make users receive truthful information. There have been several efforts to combat this problem using single modal data. In this project, we leverage text+image/video to attack this problem.
+
+
+
+
+
+
+

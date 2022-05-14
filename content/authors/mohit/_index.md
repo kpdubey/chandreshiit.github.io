@@ -1,17 +1,19 @@
 ---
+
 # Display name
 title:	Mohit Kumar
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
-weight:	830
+weight:	300
 
 # Username (this should match the folder name)
 authors:
-- Mohit Kumar
+- mohit
 
 #Author Names (alternative spellings etc)
 names:
 - Mohit Kumar
+- mohit
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,20 +23,17 @@ role: MS Student
 
 # Organizations/Affiliations
 organizations:
-- name: IIT Indore
+- name: Indian Institute of Technology Indore
   url: ""
 
 #Utah or CU
 university: IIT Indore
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include AI, NLP.
 
 interests:
 - NLP, AI
-
-#projects:
-#- <a href="/author/ibiosim/">iBioSim</a>
 
 
 department:
@@ -42,9 +41,12 @@ department:
 
 education:
   courses:
-  - course: BSci in Electrical and Computer Engineering
-    institution: University of Utah
-    year: 2011
+  - course: MS(Research) in Computer Science and Engineering
+    institution: Indian Institute of Engineering and Technology, Indore
+    year: 2023
+  - course: B.E in Computer Science and Engineering
+    institution: University Insitute of Engineering and Technology, Panjab University, Chandigarh
+    year: 2018
 
 
 
@@ -53,44 +55,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
 - icon: user-graduate
   icon_pack: fas
-  link: https://everaccountable.com/about/
+  link: http://cse.iiti.ac.in/ms_students.php
 - icon: github
   icon_pack: fab
-  link: https://github.com/tpatterson
-#- icon: orcid
-#  icon_pack: fab
-#  link: https://orcid.org/0000-0002-8627-0591
+  link: https://github.com/mohit83k
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.ece.utah.edu/prospective-students/
-# - icon: university
-#   icon_pack: fas
-#   link: https://www.colorado.edu/ecee
+  link: http://cse.iiti.ac.in/
 
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mohit83k@gmail.com"
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+
 user_groups:
 - Researchers
 - Graduate Students
 
 
-#any user groups to display on the page
-#display_groups:
-#- iBioSim Tool
-#- Genetic Design Automation Area
+
 ---
 
-Tyler has loved creating software since he was 13 years old. He helped Chris with visualization code in iBioSim. After graduation he founded Ever Accountable, a company that creates software to help people avoid and overcome pornography. He now leads a team of people at Ever Accountable who push the boundaries of technology and psychology to make pornography avoidance and recovery as easy as possible.
+Mohit is interested in solving real life problems using Engineering and Technology. He have 3 years of experience in building scalable software solutions.He is working on Fake News Detection as his research problem. Fake News is rampant in our highly connected world. We need to build an automatic framework to tacle this problem. 
