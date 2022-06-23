@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: Blogs
+type: "widget_page"
 
 # View.
 #   1 = List
