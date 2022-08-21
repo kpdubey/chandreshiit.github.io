@@ -59,7 +59,7 @@ user_groups:
 #{{< cite page="/teaching/NLP-2022" view="1" >}}
 ---
 
-This course teaches fundamentals of  Optimization Algorithms and Techniques.      [course webpage]({{< relref "/teaching/Optimization-A2022" >}}) 
+This course teaches fundamentals of  Optimization Algorithms and Techniques.   
 
 
 
